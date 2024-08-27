@@ -1,6 +1,6 @@
 import React from "react";
-// import video from "../video/realityaddon.mp4";
-import video from "../video/reailityaddon_video1.mp4";
+import video from "../video/realityaddon_video1.mp4";
+// import video from "../video/reailityaddon_video1.mp4";
 
 const HeroSection = () => {
   return (
